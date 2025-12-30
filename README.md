@@ -116,6 +116,12 @@ Edit `JwtUtil.java`:
 ---
 
 ## ▶️ Running the Application
+### Clone the repository
+
+```bash
+git clone <repo-url>
+cd jwt-api-refresh-token-mvc
+```
 
 ### Compile
 
